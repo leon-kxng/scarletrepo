@@ -71,16 +71,18 @@
     {
       "name": "MovieBoxPro",
       "version": "13.8",
-      "icon": "https://images.chuaxin.com/logo/movieboxpro_icon.png",
+      "icon": "https://archive.org/download/moviebox-pro-featured-image/moviebox-pro-featured-image.png",
       "down": "https://images.chuaxin.com/app/ios_ipa/MovieBoxPro_13.8.ipa",
       "dev": "MovieBoxPro",
       "category": "Tweaked Apps",
       "description": "MovieBoxPro is a powerful streaming app offering access to a large library of movies and TV shows. Requires iOS 11.0 or later.\n\nFEATURES:\n- Watch movies and shows in HD.\n- Download content for offline viewing.\n- Regular updates to the content library.\n- Customize playback with different playback speeds and subtitles.\n- Watch trailers and view details about your favorite shows and movies.\n- Multi-device support for synced playback and watchlists.",
       "bundleID": "com.movieboxpro.ios",
       "screenshots": [
-        "https://images.chuaxin.com/screenshot/movieboxpro_screen1.png",
-        "https://images.chuaxin.com/screenshot/movieboxpro_screen2.png",
-        "https://images.chuaxin.com/screenshot/movieboxpro_screen3.png"
+        "https://images.chuaxin.com/screenshot/ios/64115ed01f734.jpg",
+        "https://images.chuaxin.com/screenshot/ios/64115ebe829cf.jpg",
+        "https://images.chuaxin.com/screenshot/ios/64115ebc09e0c.jpg",
+        "https://images.chuaxin.com/screenshot/ios/64115ec05879a.jpg",
+        "https://images.chuaxin.com/screenshot/ios/64115ece6a228.jpg"
       ]
     }
   ]
